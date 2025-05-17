@@ -19,7 +19,7 @@ const About = () => (
         className="flex-col text-left p-3 md:p-5 lg:p-10 gap-5 min-h-full"
       >
         <p>
-          &quot;Hey! I&apos;m Atzin — web designer, developer, fitness lover somehow and accidental content creator.
+          &quot;Hey! I&apos;m Zeeshan — web designer, developer, fitness lover somehow and accidental content creator.
         </p>
         <p>
           My background in design and development gives me the tools to bring ideas to life, but my heart is in

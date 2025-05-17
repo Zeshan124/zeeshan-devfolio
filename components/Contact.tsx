@@ -11,7 +11,7 @@ const Contact = () => {
               me.</span>
           </h2>
         </Reveal>
-        <p className="max-w-[700px] mt-10">
+        {/* <p className="max-w-[700px] mt-10">
           {"Want more purple neon?"}
         </p>
         <p className="max-w-[700px] mt-10">
@@ -22,9 +22,9 @@ const Contact = () => {
           >
             VSCode theme
           </a> for free!
-        </p>
+        </p> */}
 
-        <a className="mt-10" href="mailto:hello@theplumup.com">
+        <a className="mt-10" href="mailto:raeeszeeshan4@gmail.com">
           <Button
             title="Let's connect"
             icon={<img src="assets/send.svg" />}
